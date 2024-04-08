@@ -1,0 +1,14 @@
+names:
+- gun
+- helmet
+- knife
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: detect-dangerous
+  url: https://universe.roboflow.com/object-detection-zebra-crossing/detect-dangerous/dataset/1
+  version: 1
+  workspace: object-detection-zebra-crossing
+test: C:\Users\dolla\OneDrive\Desktop\AI_Detect_Dangerous\Detect-Dangerous-1\test\images
+train: C:\Users\dolla\OneDrive\Desktop\AI_Detect_Dangerous\Detect-Dangerous-1\train\images
+val: C:\Users\dolla\OneDrive\Desktop\AI_Detect_Dangerous\Detect-Dangerous-1\valid\images
